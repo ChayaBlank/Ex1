@@ -1,7 +1,7 @@
 # Ex1
 **Graphs**
 
-Written by chaya blank. ID: 315212837.
+Written by chaya blank.
 
 Using interfaces node_info, weighted_graph and weighted_graph_algorithms written by proff. Boaz Ben - Moshe.
 
