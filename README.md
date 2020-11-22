@@ -1,4 +1,4 @@
-# Ex1# Ex1
+# Ex1
 **Graphs**
 
 Written by chaya blank. ID: 315212837.
